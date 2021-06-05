@@ -1,4 +1,4 @@
-# design-pattern
+# Design Pattern
 
 # Bridge design pattern
 - This is the concept called Abstraction over implementation
