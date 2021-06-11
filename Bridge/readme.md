@@ -11,4 +11,4 @@
 # Bridge design pattern
 - Separation of concern: Shape or Renderer can be changed indepently.
 
-![BridgeDesignPattern](https://raw.githubusercontent.com/nghianguyendev/design-pattern/master/DesignPattern/Bridge/Bridge.png)
+![BridgeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Bridge/Bridge.png)
