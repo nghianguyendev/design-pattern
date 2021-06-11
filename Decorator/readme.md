@@ -1,5 +1,5 @@
 # Decorator
-- Support OCP by adding functions to existing objects dynamically
+- Support OCP by adding functionalities to existing objects dynamically
 - Alternative to sub classing
 
 # When to use: add new functionality to
