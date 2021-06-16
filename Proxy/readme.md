@@ -16,5 +16,5 @@
 |                                                         | Proxy | Adapter | Decorator | Bridge |
 |---------------------------------------------------------|-------|---------|-----------|--------|
 | Implement same interface with pre-existing object       | Yes   | No      | No        |        |
-| Change the data of pre-existing object                  | No    | Yes     | Yes       |        |
+| Change the data of pre-existing object                  | No    | Yes     | No        |        |
 | Must be implemented before the application is designed  |       | No      |           | Yes    |
