@@ -6,7 +6,7 @@
 - Separates the object that invokes the operation from the one that knows how to perform it.
 - It's easy to add new commands, because you don't have to change existing classes.
 
-# When to use: add new functionality to
+# When to use: 
 - You want to parameterize objects by an action to perform.
 - You specify, queue, and execute requests at different times.
 - You must support undo, logging, or transactions
