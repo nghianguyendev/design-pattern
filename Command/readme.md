@@ -3,8 +3,8 @@
   and passes the command to the corresponding object which executes the command.
   
 # Benefit
-- Separates the object that invokes the operation from the one that knows how to perform it.
-- It's easy to add new commands, because you don't have to change existing classes.
+- Decupple the classes that invokes operations from the classes that perform these operations.
+- It's easy to add new commands, because you don't have to modify existing classes.
 
 # When to use: 
 - You want to parameterize objects by an action to perform.
