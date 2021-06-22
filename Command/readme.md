@@ -11,7 +11,7 @@
 - You specify, queue, and execute requests at different times.
 - You must support undo, logging, or transactions
 
-This is a simple pattern with many useful applications; actions become objects, and thus can be sorted, logged, queued, and so forth. For example, in the PFW, Figure shows Command (or task) classes for the database operations.
+This is a simple pattern with many useful applications; actions become objects, and thus can be sorted, logged, queued, and so forth. 
 
 The quintessential example of Command is for GUI actions, such as cut and paste. For example, the CutCommand's execute method does a cut, and its undo method reverses the cut. The CutCommand will also retain the data necessary to perform the undo. All the GUI commands can be kept in a history stack, so that they can be popped in turn, and each undone.
 
