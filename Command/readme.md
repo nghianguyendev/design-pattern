@@ -11,6 +11,10 @@
 - You specify, queue, and execute requests at different times.
 - You must support undo, logging, or transactions
 
+The quintessential example of Command is for GUI actions, such as cut and paste. For example, the CutCommand's execute method does a cut, and its undo method reverses the cut. The CutCommand will also retain the data necessary to perform the undo. All the GUI commands can be kept in a history stack, so that they can be popped in turn, and each undone.
+
+Another common use of Command is for server - side request handling. When a server object receives a (remote) message, it creates a Command object for that request, and hands it off to a CommandProcesser [BMRSS96], which can queue. log, prioritize, and execute the commands.
+
 # Diagram
 
 ![ChainOfReponsibilityDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Command/Command.png?raw=true)
