@@ -11,4 +11,4 @@ The Interpreter Design Pattern should be used when there is a language to interp
 - Context contain a date and expression that is the format of the date.
 - YearExpression, MonthExpression, DayExpression are translator that translate date following expression
 
-![InterpreterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Interpreter/interpreter.png?raw=true)
+![InterpreterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Interpreter/Interpreter.png)
