@@ -7,6 +7,8 @@ The Interpreter Design Pattern should be used when there is a language to interp
 - Grammar is simple
 - Efficiency is not a critical concern
 
+The best example of this pattern is C# Compiler (CSC) that interprets the C# Source code into byte code that is understood by CLR. Google Translator is an example of the interpreter design pattern where the input can be in any language and we get the output in another language.
+
 # Diagram
 - Context contain a date and expression that is the format of the date.
 - YearExpression, MonthExpression, DayExpression are translator that translate date to a text following expression format
