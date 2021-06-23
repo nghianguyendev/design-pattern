@@ -3,7 +3,7 @@
   and passes the command to the corresponding object which executes the command.
   
 # Benefit
-- Decupple the classes that invokes operations from the classes that perform these operations.
+- Decouple the classes that invokes operations from the classes that perform these operations.
 - It's easy to add new commands, because you don't have to modify existing classes.
 
 # When to use: 
