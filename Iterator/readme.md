@@ -10,6 +10,11 @@
 - When there are multiple traversals of objects need to be supported in the collection.
 - When you want to access a collection of objects without exposing its internal representation
 
+# Note:
+- Yield is a special keyword in C# that can be used only in the context of iterators. It instructs the compiler to convert this regular code to a state machine (an enumerator). The auto-generated code keeps track of where you are in the collection and it implements methods such as MoveNext and Current.
+
+Yeah! that means we can write less and do more
+
 # Diagram
 
 ![IteratorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Iterator/Iterator.png?raw=true)
