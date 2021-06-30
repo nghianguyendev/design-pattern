@@ -10,5 +10,6 @@
 - Use a mediator when the complexity of object communication begins to hinder object reusability
 
 # Diagram
-
+- DevTeam request answer to client via Mediator
+- 
 ![MediatorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Mediator/Mediator.png?raw=true)
