@@ -11,4 +11,4 @@
 
 # Diagram
 
-![MediatorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Mediator/SimpleDiagram.png?raw=true)
+![MediatorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Mediator/Mediator.png?raw=true)
