@@ -19,4 +19,4 @@ Another common use of Command is for server - side request handling. When a serv
 
 # Diagram
 
-![ChainOfReponsibilityDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Command/Command.png?raw=true)
+![ChainOfReponsibilityDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Command/Command.png?raw=true)
