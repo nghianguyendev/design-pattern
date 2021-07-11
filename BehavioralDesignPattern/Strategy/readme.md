@@ -12,4 +12,4 @@
 # Diagram
 - Switch turnOn, turnOff the light. Each action have a specific behavior regarding its state
  
-![StrategyDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Strategy/Strategy.png?raw=true)
+![StrategyDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Strategy/Strategy.png?raw=true)

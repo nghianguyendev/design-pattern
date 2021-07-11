@@ -11,4 +11,4 @@
 # Diagram
 - ExportVisitor is a visitor that can export an employee without modifying it.
  
-![VisitorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Visitor/Visitor.png?raw=true)
+![VisitorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Visitor/Visitor.png?raw=true)

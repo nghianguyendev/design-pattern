@@ -17,4 +17,4 @@ Yeah! that means we can write less and do more
 
 # Diagram
 
-![IteratorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Iterator/Iterator.png?raw=true)
+![IteratorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Iterator/Iterator.png?raw=true)

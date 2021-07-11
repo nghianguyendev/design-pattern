@@ -6,4 +6,4 @@
 - CoreEmployee have a list of sub ordinates
 - ContractEmployee have no sub ordinates
 
-![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Composite/Composite.png?raw=true)
+![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Composite/Composite.png?raw=true)

@@ -12,4 +12,4 @@
 # Diagram
 - DevTeam request answer to client via Mediator
 - 
-![MediatorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Mediator/Mediator.png?raw=true)
+![MediatorDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Mediator/Mediator.png?raw=true)

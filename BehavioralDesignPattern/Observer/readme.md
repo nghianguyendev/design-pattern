@@ -8,4 +8,4 @@
 # Diagram
 - Stock price changes will notify the investors
  
-![ObserverDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Observer/Observer.png?raw=true)
+![ObserverDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Observer/Observer.png?raw=true)

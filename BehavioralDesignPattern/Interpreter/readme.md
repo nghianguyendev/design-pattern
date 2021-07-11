@@ -13,4 +13,4 @@ The best example of this pattern is C# Compiler (CSC) that interprets the C# Sou
 - Context contain a date and expression that is the format of the date.
 - YearExpression, MonthExpression, DayExpression are translator that translate date to a text following expression format
 
-![InterpreterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Interpreter/Interpreter.png)
+![InterpreterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Interpreter/Interpreter.png)

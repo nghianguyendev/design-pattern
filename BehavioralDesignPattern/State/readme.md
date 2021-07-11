@@ -7,4 +7,4 @@
 # Diagram
 - Switch turnOn, turnOff the light. Each action have a specific behavior regarding its state
  
-![StateDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/State/State.png?raw=true)
+![StateDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/State/State.png?raw=true)

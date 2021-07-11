@@ -8,7 +8,7 @@
 # Diagram
 - ProxyInternetAccess will be the imdediate for RealInternetAccess but it's filterring sites that user can access.
 
-![ProxyDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Proxy/Proxy.png?raw=true)
+![ProxyDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Proxy/Proxy.png?raw=true)
 
 
 # Comparision with others

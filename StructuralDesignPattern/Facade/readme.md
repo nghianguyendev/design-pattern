@@ -7,4 +7,4 @@
 # Diagram
 - RestaurantFacade provide interface to user to get pizza or bread
 
-![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Facade/facade.png?raw=true)
+![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Facade/facade.png?raw=true)

@@ -9,4 +9,4 @@
 - MessageResource is legacy system
 - MessageProvider is the adapter which get messages from MessageResourse, do some changes and publish to others
 
-![AdapterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Adapter/Adapter.png?raw=true)
+![AdapterDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Adapter/Adapter.png?raw=true)

@@ -8,4 +8,4 @@
 # Diagram
 - FlyweightFactory will save list of Country into Cache for reusing next request.
 
-![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Flyweight/Flyweight.png?raw=true)
+![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Flyweight/Flyweight.png?raw=true)

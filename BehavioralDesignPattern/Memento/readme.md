@@ -7,4 +7,4 @@
 # Diagram
 - BankAccount save balance in to CareTaker to restore later
  
-![MementoDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Memento/Memento.png?raw=true)
+![MementoDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/Memento/Memento.png?raw=true)

@@ -11,4 +11,4 @@
 - LegacyOldCarWithNewIndicator is added new indicator to legacyOldCar
 - LegacyOldCarWithNewIndicatorAndWheel is added new indicator and wheel to legacyOldCar
 
-![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/Decorator/Decorator.png?raw=true)
+![CompositeDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/StructuralDesignPattern/Decorator/Decorator.png?raw=true)

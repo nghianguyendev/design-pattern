@@ -8,4 +8,4 @@
 # Diagram
 - Game abstract class is the skeleton of the game. Chess is the concreted implementation of Game.
  
-![TemplateMethodDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/TemplateMethod/TemplateMethod.png?raw=true)
+![TemplateMethodDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/TemplateMethod/TemplateMethod.png?raw=true)
