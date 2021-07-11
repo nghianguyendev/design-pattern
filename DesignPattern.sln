@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{6925FDA6-1913-4A79-9339-CBF544164B9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{A3C35C9B-2035-4AD3-83EF-68C81E98C3EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{AA269533-30BD-4A68-B9BD-D785DBF0526F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{6925FDA6-1913-4A79-9339-CBF544164B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6925FDA6-1913-4A79-9339-CBF544164B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6925FDA6-1913-4A79-9339-CBF544164B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C35C9B-2035-4AD3-83EF-68C81E98C3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C35C9B-2035-4AD3-83EF-68C81E98C3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C35C9B-2035-4AD3-83EF-68C81E98C3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C35C9B-2035-4AD3-83EF-68C81E98C3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA269533-30BD-4A68-B9BD-D785DBF0526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA269533-30BD-4A68-B9BD-D785DBF0526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA269533-30BD-4A68-B9BD-D785DBF0526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA269533-30BD-4A68-B9BD-D785DBF0526F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
