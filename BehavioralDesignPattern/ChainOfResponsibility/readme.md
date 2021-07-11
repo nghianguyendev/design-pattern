@@ -12,4 +12,4 @@
 - BaseApprover is the abstract class which defined actions of Approver
 - TeamLeadApprover, ProjectManagerApprover, DeliveryManagerApprover, CEOManagerApprover are the approvers that can handle a specific submit leaves 
 
-![ChainOfReponsibilityDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/ChainOfResponsibility/ChainOfResponsibility.png?raw=true)
+![ChainOfReponsibilityDesignPattern](https://github.com/nghianguyendev/design-pattern/blob/master/BehavioralDesignPattern/ChainOfResponsibility/ChainOfResponsibility.png?raw=true)
