@@ -1,4 +1,4 @@
-# Bridge design pattern
+# Composite design pattern
 - The Composite pattern is used when data is organized in a tree structure (for example directories in a computer).
 - Composite pattern is used when we need to treat a group of objects and a single object in the same way
 
